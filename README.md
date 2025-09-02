@@ -156,7 +156,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="692" height="434" alt="image" src="https://github.com/user-attachments/assets/f89d2c67-e1c1-4cb2-9f4e-e32fc3bb72f4" />
+<img width="692" height="435" alt="image" src="https://github.com/user-attachments/assets/4e2dca42-adb7-4e97-96cf-96c279585cd5" />
 
 <img width="692" height="444" alt="image" src="https://github.com/user-attachments/assets/5364011b-6bcb-4a2f-8b2e-acde4a2181f2" />
 
@@ -193,8 +193,8 @@ END
 ```
 
 #### Output Table
-<img width="692" height="435" alt="image" src="https://github.com/user-attachments/assets/4e2dca42-adb7-4e97-96cf-96c279585cd5" />
 
+<img width="692" height="434" alt="image" src="https://github.com/user-attachments/assets/f89d2c67-e1c1-4cb2-9f4e-e32fc3bb72f4" />
 <img width="692" height="435" alt="image" src="https://github.com/user-attachments/assets/b03e0dc7-d966-4cba-a749-2267e27dc70c" />
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
